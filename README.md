@@ -10,6 +10,6 @@ https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-world
 https://www.economist.com/science-and-technology/2018/07/19/python-has-brought-computer-programming-to-a-vast-new-audience (Enlaces a un sitio externo.)
 https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b (Enlaces a un sitio externo.)
 https://www.pluralsight.com/blog/software-development/why-python (Enlaces a un sitio externo.)
-2. El repositorio debe contener al menos 2 `commits` detallados de los cambios hechos en el notebook de jupyter.
 
+2. El repositorio debe contener al menos 2 `commits` detallados de los cambios hechos en el notebook de jupyter.
 3. El nombre del archivo debe ser el siguiente T2_PrimerNombrePrimerApellido, en mi caso sería T2_CristianZapata
